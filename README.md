@@ -36,9 +36,11 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [mlx-lm](https://github.com/ml-explore/mlx-lm) - Fast, Apple Silicon-optimized LLM inference engine for running models locally and privately.
 - [Jan](https://jan.ai/) - Privacy-first, offline AI assistant and LLM runtime for local, secure inference.
 - [LM Studio](https://lmstudio.ai/) - Cross-platform desktop app for running local LLMs with an easy-to-use interface.
+- [Cherry Studio](https://github.com/CherryHQ/cherry-studio) - Powerful and customizable cross-platform desktop app for LLM inference with built in web search, RAG, MCP support, and a quick assistant hotkey to summon your LLM from anywhere. Supports a wide variety of providers and OpenAI compatible endpoints for local inference.
 - [LLM-D](https://llm-d.ai/) - Privacy-first, distributed LLM inference engine for scalable, local deployments.
-- [Ollama](https://ollama.com) - Local LLM runner with model packaging.
-- [llama.cpp](https://github.com/ggerganov/llama.cpp) - Portable, CPU/GPU-friendly LLaMA inference.
+- [Ollama](https://ollama.com) - Local LLM runner with model packaging. Uses llama.cpp backend to serve cautious model defaults.
+- [llama.cpp](https://github.com/ggml-org/llama.cpp) - Portable, CPU/GPU-friendly LLM inference, good for GPU + CPU hybrid inference.
+- [ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - Fork of llama.cpp with bleeding edge feature implementations and quantization improvements.
 - [text-generation-inference](https://github.com/huggingface/text-generation-inference) - Optimized serving stack from Hugging Face.
 - [GPT4All](https://gpt4all.io) - Local desktop model runner.
 
@@ -59,7 +61,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 
 ## Fine-Tuning & Adapters
 > Private workflows for adapting models to your needs.
-
+> 
 - [LoRA](https://arxiv.org/abs/2106.09685) - Low-rank adaptation technique.
 - [PEFT](https://github.com/huggingface/peft) - Parameter-efficient fine-tuning.
 - [QLoRA](https://arxiv.org/abs/2305.14314) - Memory-efficient LoRA on quantized models.
@@ -121,6 +123,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 
 - [LLaMA 3](https://ai.meta.com/llama/) - Meta’s open-weight language model.
 - [Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/) - Dense 7B parameter model.
+- [Qwen 3](https://qwenlm.github.io/blog/qwen3/) - A wide variety of general and specialized models in both dense and "Mixture of Experts" formats.
 - [Phi-3](https://github.com/microsoft/Phi-3) - Small, high-quality models from Microsoft.
 - [Mixtral](https://mistral.ai/news/mixtral-of-experts/) - Mixture-of-experts model.
 - [Falcon](https://falconllm.tii.ae) - Open-source model from TII.
@@ -133,6 +136,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) - Open-source ChatGPT clone.
 - [LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced web UI for LLMs.
 - [AnythingLLM](https://anythingllm.com/) - Full-stack private LLM workspace.
+- [Open WebUI](https://github.com/open-webui/open-webui) - Commonly recommended Web UI frontend which features built in search, web scrape, RAG, and optional user authentication.
 
 
 
