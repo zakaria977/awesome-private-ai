@@ -43,7 +43,9 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - Fork of llama.cpp with bleeding edge feature implementations and quantization improvements.
 - [text-generation-inference](https://github.com/huggingface/text-generation-inference) - Optimized serving stack from Hugging Face.
 - [GPT4All](https://gpt4all.io) - Local desktop model runner.
-- [exllama3](https://github.com/turboderp-org/exllamav3) - An optimized quantization and inference library for running LLMs locally on modern consumer-class GPUs
+- [exllama3](https://github.com/turboderp-org/exllamav3) - An optimized quantization and inference library for running LLMs locally on modern consumer-class GPUs. Use TabbyAPI for an API server.
+- [tabbyAPI](https://github.com/theroyallab/tabbyAPI) - Official API server for running exllamav2 and exllamav3 models. Aims to be a friendly backend with high customizablity and an idiotmatic OAI compatible API for users.
+- [YALS (Yet another llamacpp server)](https://gtihub.com/theroyallab/YALS) - TabbyAPI's sister project, adapted for llama.cpp and GGUF models. Built from the ground up using libllama instead of wrapping llama-server.
 
 
 
@@ -97,7 +99,6 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [LlamaIndex](https://www.llamaindex.ai) - Data framework for LLM apps.
 - [Trae Agent](https://github.com/bytedance/trae-agent) - Privacy-friendly agent framework for orchestrating LLMs and tools, designed for secure, local, and scalable AI workflows.
 - [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Open-source, privacy-friendly agent framework for orchestrating LLMs and tools, designed for secure, local, and scalable AI workflows.
-- [tabbyAPI](https://github.com/theroyallab/tabbyAPI) - Open-source, privacy-friendly agentic API for code completion and LLM workflows, designed for secure, local, and scalable development.
 - [Crush](https://github.com/charmbracelet/crush) - Privacy-first, open-source agentic coding and automation platform for local AI workflows.
 - [OpenCode AI](https://opencode.ai/) - Open-source agentic coding platform for private, local, and secure AI-powered development workflows. 
 - [sglang](https://github.com/sgl-project/sglang) - Fast, privacy-first LLM inference and programming language for building composable, local AI workflows.
