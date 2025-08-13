@@ -43,6 +43,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - Fork of llama.cpp with bleeding edge feature implementations and quantization improvements.
 - [text-generation-inference](https://github.com/huggingface/text-generation-inference) - Optimized serving stack from Hugging Face.
 - [GPT4All](https://gpt4all.io) - Local desktop model runner.
+- [exllama3](https://github.com/turboderp-org/exllamav3) - An optimized quantization and inference library for running LLMs locally on modern consumer-class GPUs
 
 
 
@@ -56,6 +57,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [BentoML](https://www.bentoml.com/) - Model packaging & serving framework.
 - [vLLM Production Stack](https://github.com/vllm-project/production-stack) - End-to-end stack for deploying vLLM in production, including orchestration, monitoring, autoscaling, and best practices for private LLM serving.
 - [OME (Open Model Engine)](https://docs.sglang.ai/ome/) - Unified, open-source engine for serving, managing, and scaling LLMs and multimodal models privately. Supports sglang, vLLM, and more.
+
 
 
 
@@ -85,6 +87,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 
 
 
+
 ## Agents & Orchestration
 > Frameworks for chaining private AI tools & agents.
 
@@ -94,8 +97,10 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [LlamaIndex](https://www.llamaindex.ai) - Data framework for LLM apps.
 - [Trae Agent](https://github.com/bytedance/trae-agent) - Privacy-friendly agent framework for orchestrating LLMs and tools, designed for secure, local, and scalable AI workflows.
 - [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Open-source, privacy-friendly agent framework for orchestrating LLMs and tools, designed for secure, local, and scalable AI workflows.
+- [tabbyAPI](https://github.com/theroyallab/tabbyAPI) - Open-source, privacy-friendly agentic API for code completion and LLM workflows, designed for secure, local, and scalable development.
 - [Crush](https://github.com/charmbracelet/crush) - Privacy-first, open-source agentic coding and automation platform for local AI workflows.
 - [OpenCode AI](https://opencode.ai/) - Open-source agentic coding platform for private, local, and secure AI-powered development workflows. 
+- [sglang](https://github.com/sgl-project/sglang) - Fast, privacy-first LLM inference and programming language for building composable, local AI workflows.
 
 ## VS Code Plugins & Extensions
 > Privacy-first, open-source agentic coding plugins and extensions for VS Code and other editors.
@@ -124,10 +129,13 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [LLaMA 3](https://ai.meta.com/llama/) - Meta’s open-weight language model.
 - [Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/) - Dense 7B parameter model.
 - [Qwen 3](https://qwenlm.github.io/blog/qwen3/) - A wide variety of general and specialized models in both dense and "Mixture of Experts" formats.
-- [Phi-3](https://github.com/microsoft/Phi-3) - Small, high-quality models from Microsoft.
+- [Phi-4](https://huggingface.co/microsoft/phi-4) - Small, high-quality models from Microsoft.
 - [Mixtral](https://mistral.ai/news/mixtral-of-experts/) - Mixture-of-experts model.
 - [Falcon](https://falconllm.tii.ae) - Open-source model from TII.
+- [Gemma3](https://deepmind.google/models/gemma/gemma-3/) - Open source model from Google. 
 - [MLX Community](https://huggingface.co/mlx-community) - Community-driven Hugging Face page for open MLX models, optimized for Apple Silicon and private deployment.
+- [Bielik](https://huggingface.co/speakleash) - An open source project that provides data, tools and LLMs for the development of the Polish artificial intelligence landscape
+
 
 
 ## UI & Interaction Layers
