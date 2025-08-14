@@ -1,4 +1,4 @@
-# Awesome Private AI 
+# Awesome Private AI  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Curated list of tools, frameworks, and resources for running, building, and deploying AI **privately** — on-prem, air-gapped, or self-hosted.
 
