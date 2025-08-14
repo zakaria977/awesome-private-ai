@@ -1,4 +1,4 @@
-# Awesome Private AI 
+# Awesome Private AI  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Curated list of tools, frameworks, and resources for running, building, and deploying AI **privately** — on-prem, air-gapped, or self-hosted.
 
@@ -6,7 +6,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 
 ## **Contents**
 
-- [Awesome Private AI](#awesome-private-ai)
+- [Awesome Private AI  ](#awesome-private-ai--)
   - [**Contents**](#contents)
   - [Inference Runtimes \& Backends](#inference-runtimes--backends)
   - [Model Management \& Serving](#model-management--serving)
@@ -102,6 +102,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [Crush](https://github.com/charmbracelet/crush) - Privacy-first, open-source agentic coding and automation platform for local AI workflows.
 - [OpenCode AI](https://opencode.ai/) - Open-source agentic coding platform for private, local, and secure AI-powered development workflows. 
 - [sglang](https://github.com/sgl-project/sglang) - Fast, privacy-first LLM inference and programming language for building composable, local AI workflows.
+ - [dspy](https://github.com/stanfordnlp/dspy) - Modular, open-source agent framework for building composable, private LLM applications and workflows.
 
 ## VS Code Plugins & Extensions
 > Privacy-first, open-source agentic coding plugins and extensions for VS Code and other editors.
@@ -130,6 +131,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [LLaMA 3](https://ai.meta.com/llama/) - Meta’s open-weight language model.
 - [Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/) - Dense 7B parameter model.
 - [Qwen 3](https://qwenlm.github.io/blog/qwen3/) - A wide variety of general and specialized models in both dense and "Mixture of Experts" formats.
+- [Kimi K2](https://moonshotai.github.io/Kimi-K2/) - Mixture-of-Experts model with 32 billion activated parameters and 1 trillion total parameters.
 - [Phi-4](https://huggingface.co/microsoft/phi-4) - Small, high-quality models from Microsoft.
 - [Mixtral](https://mistral.ai/news/mixtral-of-experts/) - Mixture-of-experts model.
 - [Falcon](https://falconllm.tii.ae) - Open-source model from TII.
@@ -175,4 +177,4 @@ Contributions welcome! Provide a pull request. You can suggest a new software or
 
 ## License
 
-This list is under the CC BY-SA 4.0. Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/4.0/).
+Under CC0-1.0 license. see [LICENSE](LICENSE)
