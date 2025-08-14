@@ -91,16 +91,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 ## Agents & Orchestration
 > Frameworks for chaining private AI tools & agents.
 
-- [LangChain](https://www.langchain.com/) - Agent and LLM orchestration framework.
-- [Haystack](https://haystack.deepset.ai) - End-to-end RAG pipelines.
-- [Flowise](https://github.com/FlowiseAI/Flowise) - No-code LangChain UI.
-- [LlamaIndex](https://www.llamaindex.ai) - Data framework for LLM apps.
-- [Trae Agent](https://github.com/bytedance/trae-agent) - Privacy-friendly agent framework for orchestrating LLMs and tools, designed for secure, local, and scalable AI workflows.
-- [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Open-source, privacy-friendly agent framework for orchestrating LLMs and tools, designed for secure, local, and scalable AI workflows.
-- [tabbyAPI](https://github.com/theroyallab/tabbyAPI) - Open-source, privacy-friendly agentic API for code completion and LLM workflows, designed for secure, local, and scalable development.
-- [Crush](https://github.com/charmbracelet/crush) - Privacy-first, open-source agentic coding and automation platform for local AI workflows.
-- [OpenCode AI](https://opencode.ai/) - Open-source agentic coding platform for private, local, and secure AI-powered development workflows. 
-- [sglang](https://github.com/sgl-project/sglang) - Fast, privacy-first LLM inference and programming language for building composable, local AI workflows.
+ - [dspy](https://github.com/stanfordnlp/dspy) - Modular, open-source agent framework for building composable, private LLM applications and workflows.
 
 ## VS Code Plugins & Extensions
 > Privacy-first, open-source agentic coding plugins and extensions for VS Code and other editors.
