@@ -92,6 +92,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 > Frameworks for chaining private AI tools & agents.
 
  - [dspy](https://github.com/stanfordnlp/dspy) - Modular, open-source agent framework for building composable, private LLM applications and workflows.
+- [CUA](https://github.com/trycua/cua) -  enables AI agents to control full operating systems in virtual containers and deploy them locally or to the cloud.
 
 ## VS Code Plugins & Extensions
 > Privacy-first, open-source agentic coding plugins and extensions for VS Code and other editors.
