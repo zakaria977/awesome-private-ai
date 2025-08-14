@@ -165,4 +165,4 @@ Contributions welcome! Provide a pull request. You can suggest a new software or
 
 ## License
 
-This list is under the CC BY-SA 4.0. Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/4.0/).
+Under CC0-1.0 license. see [LICENSE](LICENSE)
