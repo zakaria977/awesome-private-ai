@@ -6,7 +6,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 
 ## **Contents**
 
-- [Awesome Private AI](#awesome-private-ai)
+- [Awesome Private AI  ](#awesome-private-ai--)
   - [**Contents**](#contents)
   - [Inference Runtimes \& Backends](#inference-runtimes--backends)
   - [Model Management \& Serving](#model-management--serving)
@@ -120,6 +120,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [LLaMA 3](https://ai.meta.com/llama/) - Meta’s open-weight language model.
 - [Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/) - Dense 7B parameter model.
 - [Qwen 3](https://qwenlm.github.io/blog/qwen3/) - A wide variety of general and specialized models in both dense and "Mixture of Experts" formats.
+- [Kimi K2](https://moonshotai.github.io/Kimi-K2/) - Mixture-of-Experts model with 32 billion activated parameters and 1 trillion total parameters.
 - [Phi-4](https://huggingface.co/microsoft/phi-4) - Small, high-quality models from Microsoft.
 - [Mixtral](https://mistral.ai/news/mixtral-of-experts/) - Mixture-of-experts model.
 - [Falcon](https://falconllm.tii.ae) - Open-source model from TII.
