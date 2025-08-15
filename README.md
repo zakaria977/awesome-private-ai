@@ -68,6 +68,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 > Private semantic search & retrieval-augmented generation.
 
 - [Milvus](https://milvus.io) - Scalable vector database.
+- [Qdrant](https://github.com/qdrant/qdrant) - High-performance Vector Database and Vector Search Engine.
 - [Weaviate](https://weaviate.io) - Open-source semantic search engine.
 - [Chroma](https://www.trychroma.com/) - Local-first vector database.
 - [FAISS](https://github.com/facebookresearch/faiss) - Facebook AI Similarity Search.
