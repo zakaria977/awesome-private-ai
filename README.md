@@ -43,8 +43,6 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [llama-swap](https://github.com/mostlygeek/llama-swap) - Model swapping for llama.cpp (or any local OpenAPI compatible server).
 
 
-
-
 ## Model Management & Serving
 > Tools for hosting, scaling, and versioning AI models privately.
 
@@ -54,9 +52,6 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [BentoML](https://www.bentoml.com/) - Model packaging & serving framework.
 - [vLLM Production Stack](https://github.com/vllm-project/production-stack) - End-to-end stack for deploying vLLM in production, including orchestration, monitoring, autoscaling, and best practices for private LLM serving.
 - [OME (Open Model Engine)](https://docs.sglang.ai/ome/) - Unified, open-source engine for serving, managing, and scaling LLMs and multimodal models privately. Supports sglang, vLLM, and more.
-
-
-
 
 ## Fine-Tuning & Adapters
 > Private workflows for adapting models to your needs.
@@ -77,15 +72,6 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [FAISS](https://github.com/facebookresearch/faiss) - Facebook AI Similarity Search.
 
 
-
-
-
-
-
-
-
-
-
 ## Agents & Orchestration
 > Frameworks for chaining private AI tools & agents.
 
@@ -101,6 +87,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [sglang](https://github.com/sgl-project/sglang) - Fast, privacy-first LLM inference and programming language for building composable, local AI workflows.
  - [dspy](https://github.com/stanfordnlp/dspy) - Modular, open-source agent framework for building composable, private LLM applications and workflows.
 - [CUA](https://github.com/trycua/cua) -  enables AI agents to control full operating systems in virtual containers and deploy them locally or to the cloud.
+- [Bytebot](https://github.com/bytebot-ai/bytebot) - A desktop agent is an AI that has its own computer. Unlike browser-only agents or traditional RPA tools, Bytebot comes with a full virtual desktop.
 
 
 ## VS Code Plugins & Extensions
