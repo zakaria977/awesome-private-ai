@@ -23,12 +23,6 @@ Private AI enables you to keep your data, models, and infrastructure **under you
   - [Contributing](#contributing)
   - [License](#license)
 
-
-
-
-
-
-
 ## Inference Runtimes & Backends
 > Engines and frameworks to run LLMs, vision, and multimodal models locally.
 
@@ -46,6 +40,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [exllama3](https://github.com/turboderp-org/exllamav3) - An optimized quantization and inference library for running LLMs locally on modern consumer-class GPUs. Use TabbyAPI for an API server.
 - [tabbyAPI](https://github.com/theroyallab/tabbyAPI) - Official API server for running exllamav2 and exllamav3 models. Aims to be a friendly backend with high customizablity and an idiotmatic OAI compatible API for users.
 - [YALS (Yet another llamacpp server)](https://gtihub.com/theroyallab/YALS) - TabbyAPI's sister project, adapted for llama.cpp and GGUF models. Built from the ground up using libllama instead of wrapping llama-server.
+- [llama-swap](https://github.com/mostlygeek/llama-swap) - Model swapping for llama.cpp (or any local OpenAPI compatible server).
 
 
 
@@ -76,6 +71,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 > Private semantic search & retrieval-augmented generation.
 
 - [Milvus](https://milvus.io) - Scalable vector database.
+- [Qdrant](https://github.com/qdrant/qdrant) - High-performance Vector Database and Vector Search Engine.
 - [Weaviate](https://weaviate.io) - Open-source semantic search engine.
 - [Chroma](https://www.trychroma.com/) - Local-first vector database.
 - [FAISS](https://github.com/facebookresearch/faiss) - Facebook AI Similarity Search.
@@ -99,10 +95,13 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [LlamaIndex](https://www.llamaindex.ai) - Data framework for LLM apps.
 - [Trae Agent](https://github.com/bytedance/trae-agent) - Privacy-friendly agent framework for orchestrating LLMs and tools, designed for secure, local, and scalable AI workflows.
 - [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Open-source, privacy-friendly agent framework for orchestrating LLMs and tools, designed for secure, local, and scalable AI workflows.
+
 - [Crush](https://github.com/charmbracelet/crush) - Privacy-first, open-source agentic coding and automation platform for local AI workflows.
 - [OpenCode AI](https://opencode.ai/) - Open-source agentic coding platform for private, local, and secure AI-powered development workflows. 
 - [sglang](https://github.com/sgl-project/sglang) - Fast, privacy-first LLM inference and programming language for building composable, local AI workflows.
  - [dspy](https://github.com/stanfordnlp/dspy) - Modular, open-source agent framework for building composable, private LLM applications and workflows.
+- [CUA](https://github.com/trycua/cua) -  enables AI agents to control full operating systems in virtual containers and deploy them locally or to the cloud.
+
 
 ## VS Code Plugins & Extensions
 > Privacy-first, open-source agentic coding plugins and extensions for VS Code and other editors.
