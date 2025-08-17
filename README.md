@@ -158,7 +158,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 
 ## Contributing
 
-Contributions welcome! Provide a pull request. You can suggest a new software or section. 
+Contributions welcome! See [Contributing](CONTRIBUTING.md)
 
 
 ## License
