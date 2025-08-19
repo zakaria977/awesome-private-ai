@@ -76,6 +76,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 > Frameworks for chaining private AI tools & agents.
 
 - [LangChain](https://www.langchain.com/) - Agent and LLM orchestration framework.
+- [Langflow](https://github.com/langflow-ai/langflow) - Visual workflow builder for creating and deploying AI-powered agents and workflows with built-in API servers.
 - [Haystack](https://haystack.deepset.ai) - End-to-end RAG pipelines.
 - [Flowise](https://github.com/FlowiseAI/Flowise) - No-code LangChain UI.
 - [LlamaIndex](https://www.llamaindex.ai) - Data framework for LLM apps.
